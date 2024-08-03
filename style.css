@@ -62,3 +62,6 @@ footer p {
   flex-direction: column;
   padding-top: 10px;
 }
+main{
+  padding-left: 20px;
+}
